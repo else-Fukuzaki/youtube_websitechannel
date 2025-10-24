@@ -4,11 +4,23 @@
 }
 
 header {
-  background-color: rgb(232, 158, 187);
+  background-color: rgb(238, 15, 104);
 }
 
 main button {
-  color: rgb(232, 158, 187);
+  color: rgb(238, 15, 104);
+}
+
+.small {
+  width: 100px;
+}
+
+.normal {
+  width: 200px;
+}
+
+.large {
+  width: 400px;
 }
 
 /*# sourceMappingURL=style.css.map */

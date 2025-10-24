@@ -1,4 +1,5 @@
-$main-color: rgb(232, 158, 187);
+$main-color: rgb(238, 15, 104);
+$btn-width: 200px;
 
 *{
   margin: 0;
@@ -11,4 +12,13 @@ header {
 }
 main button {
   color: $main-color;
+}
+.small {
+width: $btn-width / 2;
+}
+.normal {
+width: $btn-width;
+}
+.large {
+  width: $btn-width * 2;
 }
