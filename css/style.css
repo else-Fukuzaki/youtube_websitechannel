@@ -1,10 +1,14 @@
 * {
-  padding: 0;
   margin: 0;
+  padding: 0;
 }
 
 header {
-  background-color: #f06;
+  background-color: rgb(232, 158, 187);
+}
+
+main button {
+  color: rgb(232, 158, 187);
 }
 
 /*# sourceMappingURL=style.css.map */
