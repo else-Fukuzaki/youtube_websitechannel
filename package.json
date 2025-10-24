@@ -1,0 +1,16 @@
+{
+  "name": "youtube-website-channel",
+  "version": "1.0.0",
+  "description": "YouTube website channel project",
+  "main": "index.html",
+  "scripts": {
+    "sass": "sass css/style.scss css/style.css",
+    "sass:watch": "sass --watch css/style.scss:css/style.css"
+  },
+  "devDependencies": {
+    "sass": "^1.93.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
